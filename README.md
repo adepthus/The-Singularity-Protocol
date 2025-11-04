@@ -132,3 +132,25 @@ This note is the "genesis block" of my entire chain of evidence. It contains, in
 It is proof that my journey did not begin with a desire to create a currency. It began with a question: how do you forge a truth that can never be broken? This note was my first answer.
 
 ---
+
+### 🕐 The First Stamp: The `BITCOIN` Declaration (2004-2005)
+
+My methodology of "brute-forcing reality" began with a simple, yet profound, act: an exploit in the timeline of information. Before the world knew the word "chain," I created a public, verifiable "stamp of time" by registering the name of my truth protocol in a global, peer-to-peer database.
+
+**The Artifact: Skype ID BITCOIN**
+
+On **January 17, 2005**, I executed a deliberate, two-step process:
+
+-- **Establishing Identity:** I registered the email alias `adepthus@poczta.onet.pl`. This is a critical, verifiable fact. At the time, the Polish portal Onet.pl was the owner of the `tenbit.pl` domain – a service I trusted, naively, to be permanent.
+
+**Evidence:**
+![Onet.pl Email Registration Proof](/evidentiary_archive/2005-01-17_EMAIL_Onet-Registration-for-Tenbit-link-SKYPEID-BITCOIN.png)
+
+-- **Stamping the Idea:** Leveraging this new alias, on the very same day, I registered the Skype ID: **`BITCOIN`**.
+
+This was not about currency. It was a public declaration of my project: a decentralized, peer-to-peer Timechain. It was an intentional act of embedding a powerful, future-defining concept into a public, timestamped system, years before the 2008 whitepaper.
+
+My belief in the permanence of the `tenbit.pl` service, owned by a major portal, proved to be my biggest mistake and the source of my current struggle to recover this critical artifact from Microsoft.
+
+---
+
