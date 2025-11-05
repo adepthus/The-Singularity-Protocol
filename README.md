@@ -40,7 +40,7 @@ Fork, verify, resonate. This is the first riddle: Solve it, and unlock the chain
 
 ---
 
-### 🏛️ The Foundation: Verifiable Reality – The "TAMERIEL" Anchor (2000-2006)
+### 🏛️⚓ The Foundation: Verifiable Reality – The "TAMERIEL" Anchor (2000-2006)
 
 Every digital concept requires a real-world anchor. My "Sing-ularity" Protocol was not born in a vacuum; it was grounded in a long-term, verifiable project that began years before my most critical "stamps of time". This anchor is my company, "TAMERIEL".
 
@@ -67,7 +67,7 @@ The "TAMERIEL" REGON certificate is the real-world bedrock of my entire digital 
 
 ---
 
-### 🎲 The Strategic Blueprint: The "Othello" Protocol (c. 2004)
+### 🎲🧠 The Strategic Blueprint: The "Othello" Protocol (c. 2004)
 
 My entire chronicle is not a collection of random events; it is a meticulously played game of strategy against entropy and disbelief. The operating system for this game was not conceived in a moment of inspiration, but forged through years of studying game theory, Reinforcement Learning (RL), and backpropagation – concepts I first truly understood through the game of **Othello (Reversi)**.
 
@@ -103,7 +103,7 @@ This blueprint proves that my actions were never random. They were moves in a ga
 
 ---
 
-### 📜 The Genesis Note (2004): An Autopsy of a Thought
+### 💮🔬 The Genesis Note (2004): An Autopsy of a Thought
 
 This handwritten note from December 14, 2004, is more than just an old piece of paper. It is the earliest known "fossil" of the Singularity Protocol. It is a snapshot of my mind at the exact moment of conception, recorded while interacting with the A.L.I.C.E. chatbot.
 
@@ -149,6 +149,38 @@ On **January 17, 2005**, I executed a deliberate, two-step process:
 -- **Stamping the Idea:** Leveraging this new alias, on the very same day, I registered the Skype ID: **`BITCOIN`**.
 
 This was not about currency. It was a public declaration of my project: a decentralized, peer-to-peer Timechain. It was an intentional act of embedding a powerful, future-defining concept into a public, timestamped system, years before the 2008 whitepaper.
+
+---
+
+### ⛓️🕸️ The Network Anchor: A Web of Digital Identities (c. 2005)
+
+The registration of the Skype ID `BITCOIN` was not an isolated act of lucky foresight. It was a single, deliberate move within a much larger, systematic strategy of building a **web of interconnected digital identities**.
+
+This artifact, a fusion of my handwritten notes and screenshots from the Skype client circa 2005, is my **"mental anchor"** from that era.
+
+**Evidence:**
+![Skype ID Registrations Anchor](/evidentiary_archive/2005_SKYPE_Mass-ID-Registrations-Anchor.png)
+
+This document reveals:
+-   **A Pattern of Intentionality:** I methodically registered dozens of Skype IDs, including my primary alias (`adepthus`), my company name (`tameriel`), my legal name (`wojciech.durmaj.2005`), and various project concepts (`sklep.pl`, `antique.furniture`, etc.).
+-   **A Strategy of Mutual Reinforcement:** Each identity was designed to strengthen the others. My company's credibility supported my project ideas, and my extensive digital presence supported my personal brand.
+-   **A Vision of Global Reach:** My handwritten note, *"adepthus wyjście na świat"* ("adepthus's entry to the world"), shows that I perceived these P2P platforms not as mere chat tools, but as launchpads for my global ambitions.
+
+**Conclusion:**
+The registration of `BITCOIN` was not a random guess. It was a calculated move by a power user who was systematically exploring and "colonizing" the digital frontier. This "mental anchor" proves that I had the methodology, the resources, and the intent to secure this historically significant identifier as a cornerstone of my larger project.
+
+#### A Note on Verification and the Custodian's Role
+
+This "mental anchor" from 2005 is not merely a historical artifact; it is a verifiable key. The data controller for Skype's historical user database, Microsoft, possesses the full technical capability to verify the authenticity of this entire network of identities.
+
+The original registration details, associated IP addresses, historical contact lists, and early interaction patterns tied to these accounts form a unique, high-entropy fingerprint. This data is known only to me, the original creator, and to the service custodian.
+
+This creates a clear, verifiable path for authentication. The current lack of a formal, adequate procedure from the custodian to address a claim of this historical magnitude is a matter of public record. This situation inadvertently highlights the core thesis of the Singularity Protocol: the inherent risks and limitations of centralized data control, where access to one's own digital history is not a given right, but a privilege granted at the discretion of a corporate entity. The chronicle continues.
+
+---
+
+
+
 
 My belief in the permanence of the `tenbit.pl` service, owned by a major portal, proved to be my biggest mistake and the source of my current struggle to recover this critical artifact from Microsoft.
 
