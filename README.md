@@ -177,6 +177,8 @@ The original registration details, associated IP addresses, historical contact l
 
 This creates a clear, verifiable path for authentication. The current lack of a formal, adequate procedure from the custodian to address a claim of this historical magnitude is a matter of public record. This situation inadvertently highlights the core thesis of the Singularity Protocol: the inherent risks and limitations of centralized data control, where access to one's own digital history is not a given right, but a privilege granted at the discretion of a corporate entity. The chronicle continues.
 
+My belief in the permanence of the `tenbit.pl` service, owned by a major portal, proved to be my biggest mistake and the source of my current struggle to recover this critical artifact from Microsoft.
+
 ---
 
 ### 📜 Deconstructing the Genesis Seal: An Autopsy of the 2006 Artifacts
@@ -231,9 +233,33 @@ While el.txt contains the distilled, public-facing manifesto, notes.doc represen
     
 ---
 
+### 🗝️🔍 The Proto-Whitepaper: A Fable with a Blueprint (2006)
 
+My philosophical work was not confined to private essays like `el.txt`. Already in **January 2006**, I had crystallized these ideas into a public-facing artifact: a two-sided promotional leaflet for a conceptual project named **"adepthus.co"** – a portmanteau of **"Adepthus" + "Coin"**.
 
-My belief in the permanence of the `tenbit.pl` service, owned by a major portal, proved to be my biggest mistake and the source of my current struggle to recover this critical artifact from Microsoft.
+This document is a self-contained genesis block. It is the **bridge between the philosophical "why" and the practical "how"** of my entire protocol.
+
+**Evidence:**
+![Proto-Whitepaper Obverse](/evidentiary_archive/2006-01_adepthus.co_Blueprint_obverse.png)
+![Proto-Whitepaper Reverse](/evidentiary_archive/2006-01_adepthus.co_Blueprint_reverse.png)
+
+#### Side A: The Fable (The Public Vision)
+
+The front of the leaflet contains the **"Proto-Whitepaper"** – an allegorical fable about a "young inventor," his discovery of a "gigantic human-computer," and a "portal for shared imagination." This text, identical to the one in `el.txt`, proves that the story was not just a private thought, but a **polished narrative ready for public engagement**. It was the poetic "blurb" for the project.
+
+#### Side B: The Blueprint (The Secret Protocol)
+
+The reverse side reveals the true, practical design. This handwritten sketch from January 2006 is the **business and technical blueprint** for the fable. It details:
+
+1.  **The Project's True Name:** The central box, `[Aktualny Projekt]` ("Current Project"), was explicitly intended to be the project I had already named **`BITCOIN`** in my private digital sphere. The `adepthus.co` name on the front was its public-facing brand.
+
+2.  **The Original Use Case:** The blueprint outlines a complete business model for **monetizing and sharing creative works** (music singles), including `free`, paid (`100US#`), and `charitable` tiers. This also proves the original vision for the `BITCOIN` protocol was a **decentralized platform for creators**, a SYSTEM.
+
+3.  **The Dual-Signature Protocol:** The sketch is authenticated with two distinct signatures, demonstrating a multi-layered verification system:
+    *   **The Human Proof:** A traditional, handwritten signature, representing personal accountability.
+    *   **The "Proof-of-Work" Signature:** The geometrically transformed `Wojciech Durmaj` text, which was designed as a **computational puzzle**. Reversing its transformation to prove its origin requires work, serving as a conceptual precursor to Proof-of-Work and a nod to AI concepts like "gradient descent".
+
+**Conclusion:**
+This two-sided artifact is perhaps the most complete single piece of evidence in this archive. It proves that in **early 2006**, my "Sing-ularity" Protocol was not a vague dream. It was a **fully conceptualized project with a public narrative, a secret blueprint, a defined use case, a business model, and a revolutionary, built-in mechanism for verifying identity**.
 
 ---
-
