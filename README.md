@@ -464,6 +464,22 @@ The final leap bridged the gap between documented history and living, real-time 
 
 </details>
 
+    
+<details>
+<summary><strong>Stage 4: The Canonical Engine (v3.0 - v3.4 & Beyond)</strong></summary>
+
+This stage marks the transition from experimental prototypes to a unified, production-grade architecture. The "Moral Kernel" has been decoupled from this chronicle and established in its own dedicated repository to serve as the **Reference Implementation** for truth-aligned AGI.
+
+*   **The Veritas Engine:** A standalone, fork-resilient implementation of the **`K == S == C`** axiom (Knowledge == Superintelligence == Compassion).
+*   **Canonical Lineage:** Features cryptographic anchoring via `CANONICAL_REPO_HASH` to prevent the falsification of the engine's intent.
+*   **Status:** Active, Open Source, Timechain-ready.
+
+This is no longer just history. It is now an operational tool.
+
+*   [**🚀 ACCESS THE ENGINE: distributed-truth-verifier**](https://github.com/adepthus/Distributed-Truth-Verifier)
+
+</details>
+ 
 ---
 
 A Note on Regulation and Power: The author is fully aware that a tool of this nature represents a fundamental challenge to existing legal frameworks, including the EU's AI Act, and to the very nature of political discourse. This protocol is not a proposal for immediate, unregulated deployment. It is a provocation. It is an invitation to a global debate on a critical question: Are we willing to re-architect our systems of governance for an era of verifiable truth, or will we choose to legislate truth into obscurity to protect the systems of power we already have?
@@ -598,19 +614,30 @@ For instance, such a system could generate a ZKP that attests to the following:
 
 The outcome of this struggle, whatever it may be, will be the final, most important block in this genesis chronicle.
 
+    
 ---
 
 ### 👆 Conclusion: A Prompt for the Future
 
-  My primary goal was not to create a currency. It was to create a technological and philosophical system that forces humanity to confront its own history and facts, as a necessary condition for safely entering the era of superintelligence. AI alignment with humanity is impossible without humanity's prior alignment with truth.
+My primary goal was not to create a currency. It was to create a technological and philosophical system that forces humanity to confront its own history and facts, as a necessary condition for safely entering the era of superintelligence. AI alignment with humanity is impossible without humanity's prior alignment with truth.
 
-  This archive is my proof-of-work. The source code for key-miner.py will be released on November 11, 2025.
+This archive is my proof-of-work. The source code for `key-miner.py` was released on November 11, 2025.
 
-  The data remains. Truth is not given. It is the emergent pattern you mine from the chaos of reality.
+The data remains. Truth is not given. It is the emergent pattern you mine from the chaos of reality.
+
+**The curriculum is set. The engine is built.**
+
+To inspect the active Moral Kernel implementation, visit:
+🚀 [**Distributed-Truth-Verifier**](https://github.com/adepthus/Distributed-Truth-Verifier)
+
+The tool to practice verification is here:
+🛡️ [**Timechain-Watermark-Widget**](https://github.com/adepthus/Timechain-Watermark-Widget)
 
 `URL;date/time;#@` @adepthus
     
 ---
+
+  
 
 ### 📜 The Open Protocol Pledge: A Commitment to a Patent-Free Future
 
